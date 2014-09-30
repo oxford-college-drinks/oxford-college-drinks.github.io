@@ -2,3 +2,6 @@ title_tag_text: Oxford College Drinks
 h1_tag_text: Oxford College Drinks
 
 exclude: ["Procfile", "Gruntfile.js", "README.md", "package.json", "CNAME", "node_modules"]
+
+gems:
+  - jekyll-sitemap
